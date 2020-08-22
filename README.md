@@ -19,5 +19,4 @@ This lightweight app requires node and a local mySQL database. Follow these step
 1. Use `node app.js` to launch the app
 1. Follow the prompts to add, update, remove, and view your employee data
 
-### See it in action
 
